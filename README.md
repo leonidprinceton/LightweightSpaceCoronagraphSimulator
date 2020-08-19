@@ -1,4 +1,4 @@
-# LightweightSpaceCoronagraphSimulator
+# Lightweight Space Coronagraph Simulator
 Simulating realistic high-contrast space imaging instruments in a linear regime.
 For now, only the Hybrid Lyot Coronagraph (HLC) of the Roman Space Telescope is supported based on [FALCO](https://github.com/ajeldorado/falco-matlab).
 
