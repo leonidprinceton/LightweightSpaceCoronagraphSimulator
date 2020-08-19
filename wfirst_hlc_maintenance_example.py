@@ -17,7 +17,7 @@ intensity_to_photons = 1e9 #average number of photons per contrast unit per pixe
 dark_current = 0.25  #average number of dark current photons per pixel per exposure
 
 drift_zernike_std = 1e-10 #in meters
-jitter_zernike_std = 1e-11 #in meters
+jitter_zernike_std = 1e-9 #in meters
 drift_DM_std = 1e-3 #in Volts
 dither_DM_std = 1e-2 #in Volts
 
